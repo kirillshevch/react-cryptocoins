@@ -6,9 +6,10 @@ const ViorAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M149.205 73.092h-18.732l-17.055 45.487-17.053-45.487H77.631l35.787 86.96z" />

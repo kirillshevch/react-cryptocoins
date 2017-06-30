@@ -97,7 +97,7 @@ export Ioc from './icons/IOC';
 export JbsAlt from './icons/JBS-alt';
 export Jbs from './icons/JBS';
 export KmdAlt from './icons/KMD-alt';
-export Kmd from './icons/KMD-alt';
+export Kmd from './icons/KMD';
 export Kobo from './icons/KOBO';
 export KoreAlt from './icons/KORE-alt';
 export Kore from './icons/KORE';

@@ -6,9 +6,10 @@ const Grc = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <circle cx="111.893" cy="132.846" r="1.914" />

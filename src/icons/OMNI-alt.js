@@ -6,9 +6,10 @@ const OmniAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M113.39 62.245c-28.2 0-51.144 22.942-51.144 51.144 0 28.199 22.944 51.143 51.144 51.143s51.144-22.943 51.144-51.143c0-28.202-22.943-51.144-51.144-51.144z" />

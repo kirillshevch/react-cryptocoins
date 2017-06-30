@@ -6,9 +6,10 @@ const SlgAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M58.319 91.972v45.332h94.655zM113.37 51.594l-44.415 28.81h88.649zM113.37 175.052l44.232-28.806H68.955zM168.189 134.677V89.345H73.534z" />

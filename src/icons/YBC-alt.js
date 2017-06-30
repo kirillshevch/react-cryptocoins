@@ -6,9 +6,10 @@ const YbcAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M86.182 157.237h54.731v66.147a113.77 113.77 0 0 1-27.63 3.393C50.602 226.777-.21 175.964-.21 113.283c0-47.096 28.688-87.49 69.54-104.666v131.809l16.852 16.811z" />

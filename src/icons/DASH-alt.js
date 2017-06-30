@@ -6,9 +6,10 @@ const DashAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M92.683 97.738H10.195L.65 128.765h82.488z" />

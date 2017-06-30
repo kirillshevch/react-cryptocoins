@@ -7,6 +7,9 @@ const Rise = props => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 226.8 226.8"
+      width={size}
+      height={size}
+      stroke={color}
       {...otherProps}
     >
       <circle class="st0" cx="73.8" cy="17.9" r="17.9" />

@@ -6,9 +6,10 @@ const Fc2Alt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M159.162 67.919h-47.428l2.949-19.923h55.754L177.079.015H57.127l-27.593 192.75H93.25l11.099-74.958h47.865l6.948-49.888zM55.995 181.128H41.168L66.188 7.531h14.826L55.995 181.128z" />

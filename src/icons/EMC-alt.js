@@ -6,9 +6,10 @@ const EmcAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M82.959 61.139L52.558 113.41l30.401 52.273h60.406l30.803-52.418-31.318-52.126H82.959zm58.774 80.191H84.666v-12.407h44.658V96.675h-10.248v22.941h-34.41v-12.411h21.999v-10.53H84.666V84.264h57.067v57.066z" />

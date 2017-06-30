@@ -7,6 +7,9 @@ const GntAlt = props => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 226.8 226.8"
+      width={size}
+      height={size}
+      stroke={color}
       {...otherProps}
     >
       <path d="M113.766 44.195c-14.18 0-25.716 11.829-25.716 26.369s11.536 26.369 25.716 26.369c14.18 0 25.716-11.829 25.716-26.369s-11.537-26.369-25.716-26.369z" />

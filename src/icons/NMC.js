@@ -6,9 +6,10 @@ const Nmc = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M86.591 87.017l49.202 67.616 4.357-13.777-49.903-68.741z" />

@@ -6,9 +6,10 @@ const Sync = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M94.466 103.013l38.213 30.797v-9.555L94.466 93.459z" />

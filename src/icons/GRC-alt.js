@@ -6,9 +6,10 @@ const GrcAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M215.33 97.578h-97.026v6.954h97.819c-.198-2.329-.443-4.655-.793-6.954z" />

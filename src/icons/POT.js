@@ -6,9 +6,10 @@ const Pot = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M130.231 74.484H96.212l-1.822 9.432h30.003l-2.694 14.258H91.638l-2.211 11.454h36.201c12.238 0 23.579-8.084 25.038-20.884 1.461-12.8-11.114-14.26-20.435-14.26z" />

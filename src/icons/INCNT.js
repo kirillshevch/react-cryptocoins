@@ -7,6 +7,9 @@ const Incnt = props => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 226.8 226.8"
+      width={size}
+      height={size}
+      stroke={color}
       {...otherProps}
     >
       <path d="M113.4 32.286L53.711 49.445 113.4 226.8l59.689-177.355zm0-9.379l32.743 9.346 7.009-20.825L113.4 0 73.648 11.428l7.009 20.826z" />

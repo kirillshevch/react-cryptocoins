@@ -31,6 +31,9 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
       });
 
       if (el.name === 'svg') {
+        $(el).attr('width', '24');
+        $(el).attr('height', '24');
+        $(el).attr('stroke', 'currentColor');
         $(el).attr('otherProps', '...');
       }
     });
@@ -44,6 +47,7 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
         return (
           ${
             $('svg').toString()
+
               .replace('stroke="currentColor"', 'stroke={color}')
               .replace('width="24"', 'width={size}')
               .replace('height="24"', 'height={size}')

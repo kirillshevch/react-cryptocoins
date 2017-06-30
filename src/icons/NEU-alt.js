@@ -6,9 +6,10 @@ const NeuAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M160.53 98.028a5.86 5.86 0 1 0-1.98 11.376 3.526 3.526 0 0 1-.54-1.863 3.56 3.56 0 0 1 3.557-3.559 3.56 3.56 0 0 1 3.558 3.547 5.85 5.85 0 0 0 1.269-3.639 5.864 5.864 0 0 0-5.864-5.862z" />

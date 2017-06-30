@@ -6,9 +6,10 @@ const Sar = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M113.411 53.739L94.055 86.361 61.973 53.739l51.438 137.767 51.438-137.767-32.083 32.622z" />

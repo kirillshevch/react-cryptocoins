@@ -6,9 +6,10 @@ const VrcAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M167.272 2.863l-53.384 111.909L59.315 2.863H0l113.49 221.052L226.984 2.863z" />

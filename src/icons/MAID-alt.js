@@ -6,9 +6,10 @@ const MaidAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M132.587 150.202l-.022-30.772L80.25 89.2l132.213-74.367v-.022s-30.458-30.014-75.144-3.336C100.722 33.321 39.407 69.91 18.386 82.457l114.201 67.745z" />

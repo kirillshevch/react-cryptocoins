@@ -6,9 +6,10 @@ const SdcAlt = props => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width="226.777"
-      height="226.777"
+      width={size}
+      height={size}
       viewBox="0 0 226.777 226.777"
+      stroke={color}
       {...otherProps}
     >
       <path d="M113.564 0L15.367 56.695v113.387l98.197 56.695 98.196-56.695V56.695L113.564 0zm78.221 156.726l-78.221 45.161-78.222-45.161V66.405l78.222-45.162 78.221 45.162v90.321z" />
