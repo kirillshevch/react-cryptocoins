@@ -1,0 +1,3 @@
+[submodule "src/cryptocoins"]
+	path = src/cryptocoins
+	url = https://github.com/allienworks/cryptocoins
