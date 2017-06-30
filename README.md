@@ -44,7 +44,7 @@ class MyClass extends React.Component {
 
 Icons can be configured with inline props:
 ```javascript
-<Icon.AlertCircle color="red" size={48} />
+<Icon.Eth color="red" size={48} />
 ```
 
 ## License
