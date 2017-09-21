@@ -9,7 +9,7 @@ const Neos = props => {
       width={size}
       height={size}
       viewBox="0 0 595.279 595.281"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M0 .001h64.997v595.28H0zm364.322 164.468L78.559.001v595.28h64.997V111.912l220.766 127.729zm0-90.865L237.103.001H107.389l256.933 148.774zm0-73.603H264.219l100.103 57.915zm165.961 0h64.996v595.28h-64.996z" />

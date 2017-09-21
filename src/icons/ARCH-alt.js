@@ -9,7 +9,7 @@ const ArchAlt = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M117.539 15.073L0 211.704h117.539l-4.412-9.033H16.492l57.982-100.418 59.87 109.451h92.644z" />

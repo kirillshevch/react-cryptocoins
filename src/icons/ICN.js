@@ -9,7 +9,7 @@ const Icn = props => {
       viewBox="0 0 226.8 226.8"
       width={size}
       height={size}
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M181.44 0h34.02v226.8h-34.02zm-56.7 113.4h34.02v113.4h-34.02zm-56.7-56.7h34.02v170.1H68.04zm-56.7 113.4h34.02v56.7H11.34z" />

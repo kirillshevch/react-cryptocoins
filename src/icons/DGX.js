@@ -9,7 +9,7 @@ const Dgx = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M65.241 83.402h31.294v10.19H65.241z" />

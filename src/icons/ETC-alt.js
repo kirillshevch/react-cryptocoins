@@ -9,7 +9,7 @@ const EtcAlt = props => {
       viewBox="0 0 226.8 226.8"
       width={size}
       height={size}
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path

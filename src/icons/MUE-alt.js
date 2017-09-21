@@ -9,7 +9,7 @@ const MueAlt = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M184.741 34.274l-70.057 88.04-71.868-88.04L0 214.203h42.816l22.612-93.815 49.256 58.214 48.408-58.214 22.611 93.815h41.374z" />

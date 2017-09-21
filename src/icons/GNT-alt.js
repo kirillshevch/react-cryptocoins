@@ -9,7 +9,7 @@ const GntAlt = props => {
       viewBox="0 0 226.8 226.8"
       width={size}
       height={size}
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M113.766 44.195c-14.18 0-25.716 11.829-25.716 26.369s11.536 26.369 25.716 26.369c14.18 0 25.716-11.829 25.716-26.369s-11.537-26.369-25.716-26.369z" />

@@ -9,7 +9,7 @@ const Sar = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M113.411 53.739L94.055 86.361 61.973 53.739l51.438 137.767 51.438-137.767-32.083 32.622z" />

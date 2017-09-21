@@ -9,7 +9,7 @@ const Grc = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <circle cx="111.893" cy="132.846" r="1.914" />

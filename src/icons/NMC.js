@@ -9,7 +9,7 @@ const Nmc = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M86.591 87.017l49.202 67.616 4.357-13.777-49.903-68.741z" />

@@ -9,7 +9,7 @@ const Mona = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M112.951 149.841l12.2-20.604h-23.92z" />

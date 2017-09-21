@@ -9,7 +9,7 @@ const Rise = props => {
       viewBox="0 0 226.8 226.8"
       width={size}
       height={size}
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <circle className="st0" cx="73.8" cy="17.9" r="17.9" />

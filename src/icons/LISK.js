@@ -9,7 +9,7 @@ const Lisk = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M149.643 44.609l-1.615 12.383 9.268 7.766 16.535-5.797-11.088-9.202-5.555-10.566-29.648-28.336 7.908 20.111z" />

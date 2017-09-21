@@ -9,7 +9,7 @@ const MtrAlt = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M178.758 32.115l2.621 10.259L.023 121.48l2.052 6.612 150.808-46.444v113.014h22.91V74.591l12.083-3.722 3.079 10.945 36.133-43.544z" />

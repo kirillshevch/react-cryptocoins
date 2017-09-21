@@ -9,7 +9,7 @@ const Doge = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M116.338 74.87h-16.236v32h25.538v13.399h-25.538v32h17.023c4.375 0 35.918.494 35.87-37.232-.048-37.724-30.589-40.167-36.657-40.167z" />
