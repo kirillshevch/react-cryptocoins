@@ -9,7 +9,7 @@ const Ldoge = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M81.026 96.324s-1.021 1.719-4.125 1.593c-.546 3.146 1.3 6.838 4.32 6.838 3.021 0 4.699-4.027 4.699-6.921-.251-.043-3.649.545-4.894-1.51z" />

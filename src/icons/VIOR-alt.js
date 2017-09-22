@@ -9,7 +9,7 @@ const ViorAlt = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M149.205 73.092h-18.732l-17.055 45.487-17.053-45.487H77.631l35.787 86.96z" />

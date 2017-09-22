@@ -9,7 +9,7 @@ const Xbs = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M125.183 102.635a5.198 5.198 0 0 0-5.19-5.191H98.099v10.382h21.894a5.198 5.198 0 0 0 5.19-5.191z" />

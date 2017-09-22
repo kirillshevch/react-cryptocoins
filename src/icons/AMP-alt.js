@@ -9,7 +9,7 @@ const AmpAlt = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <circle cx="89.056" cy="113.228" r="18.796" />

@@ -9,7 +9,7 @@ const Sync = props => {
       width={size}
       height={size}
       viewBox="0 0 226.777 226.777"
-      stroke={color}
+      fill={color}
       {...otherProps}
     >
       <path d="M94.466 103.013l38.213 30.797v-9.555L94.466 93.459z" />

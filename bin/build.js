@@ -25,7 +25,7 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
         if (x.includes('-')) {
           $(el).attr(camelcase(x), el.attribs[x]).removeAttr(x);
         }
-        if (x === 'stroke') {
+        if (x === 'fill') {
           $(el).attr(x, 'currentColor');
         }
       });
@@ -33,7 +33,7 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
       if (el.name === 'svg') {
         $(el).attr('width', '24');
         $(el).attr('height', '24');
-        $(el).attr('stroke', 'currentColor');
+        $(el).attr('fill', 'currentColor');
         $(el).attr('otherProps', '...');
       }
     });
@@ -48,10 +48,11 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
           ${
             $('svg').toString()
 
-              .replace('stroke="currentColor"', 'stroke={color}')
+              .replace('fill="currentColor"', 'fill={color}')
               .replace('width="24"', 'width={size}')
               .replace('height="24"', 'height={size}')
               .replace('otherProps="..."', '{...otherProps}')
+              .replace('.st0{fill-rule:evenodd;clip-rule:evenodd}', '{\'.st0{fill-rule:evenodd;clip-rule:evenodd}\'}')
           }
         )
       };
