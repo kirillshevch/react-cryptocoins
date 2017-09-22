@@ -1,6 +1,6 @@
 {
   "name": "react-cryptocoins",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "React component for Cryptocoins icons",
   "main": "dist/index.js",
   "scripts": {
