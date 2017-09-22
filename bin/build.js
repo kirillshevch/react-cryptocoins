@@ -52,6 +52,7 @@ glob(`${rootDir}/src/cryptocoins/SVG/*.svg`, (err, icons) => {
               .replace('width="24"', 'width={size}')
               .replace('height="24"', 'height={size}')
               .replace('otherProps="..."', '{...otherProps}')
+              .replace('.st0{fill-rule:evenodd;clip-rule:evenodd}', '{\'.st0{fill-rule:evenodd;clip-rule:evenodd}\'}')
           }
         )
       };
