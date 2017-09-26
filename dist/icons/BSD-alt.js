@@ -33,7 +33,7 @@ var BsdAlt = function BsdAlt(props) {
       fill: color
     }, otherProps),
     _react2.default.createElement('path', {
-      className: 'st0',
+      'class': 'st0',
       d: 'M113.4 0C50.8 0 0 50.8 0 113.4 0 176 50.8 226.8 113.4 226.8S226.8 176 226.8 113.4C226.8 50.8 176 0 113.4 0zm22 169.6v-34.7h-93v-17.7h142l-49 52.4zm49-60h-142l48.9-52.4v34.7h93v17.7z'
     })
   );
