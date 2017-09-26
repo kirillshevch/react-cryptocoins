@@ -33,11 +33,11 @@ var Etc = function Etc(props) {
       fill: color
     }, otherProps),
     _react2.default.createElement('path', {
-      className: 'st0',
+      'class': 'st0',
       d: 'M47.1 101.6L114 73.4l64.8 28.9L113.9 0 47.1 101.6zm.2 31.3l66.7 38.7 68.1-38.7-67.5 93.9-67.3-93.9z'
     }),
     _react2.default.createElement('path', {
-      className: 'st0',
+      'class': 'st0',
       d: 'M114.3 87.2l-69.6 29.3 69.6 38.7 67.7-37.8-67.7-30.2z'
     })
   );

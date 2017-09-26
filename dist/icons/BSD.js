@@ -33,7 +33,7 @@ var Bsd = function Bsd(props) {
       fill: color
     }, otherProps),
     _react2.default.createElement('path', {
-      className: 'st0',
+      'class': 'st0',
       d: 'M78.2 80.9V25.4L0 109.1h226.8V80.9zM0 145.9h148.6v55.5l78.2-83.8H0z'
     })
   );
