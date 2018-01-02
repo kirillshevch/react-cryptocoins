@@ -27,9 +27,9 @@ var Sia = function Sia(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M39.8 35.8c.2.2.4.4.7.6l-.7-.6m4-3.9l.6.6c-.2-.2-.4-.5-.6-.6 0-.1 0 0 0 0' }),

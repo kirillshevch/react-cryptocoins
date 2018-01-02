@@ -27,9 +27,9 @@ var ErcAlt = function ErcAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M129 98.1l18.3-6.1c-7.1-11.2-19.6-18.6-33.9-18.6-18.4 0-33.9 12.4-38.6 29.4l57.8-18.4-3.6 13.7z' }),

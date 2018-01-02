@@ -5,11 +5,10 @@ const Kmd = props => {
   const { color, size, ...otherProps } = props;
   return (
     <svg
-      id="Layer_1"
       xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 226.8 226.8"
       width={size}
       height={size}
+      viewBox="0 0 226.8 226.8"
       fill={color}
       {...otherProps}
     >

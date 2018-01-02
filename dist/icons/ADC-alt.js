@@ -27,9 +27,9 @@ var AdcAlt = function AdcAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M136.1 110.9l-32-18.5c-2.8-1.6-6.2.4-6.2 3.6v37c0 3.2 3.5 5.2 6.2 3.6l32-18.5c2.8-1.6 2.8-5.6 0-7.2z' }),

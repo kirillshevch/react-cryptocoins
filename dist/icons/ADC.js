@@ -27,9 +27,9 @@ var Adc = function Adc(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M113.4 38.4c-41.4 0-75 33.6-75 75s33.6 75 75 75 75-33.6 75-75-33.7-75-75-75zm35.9 82.4l-50.4 29.1c-4.4 2.5-9.8-.6-9.8-5.7V86c0-5 5.4-8.2 9.8-5.7l50.4 29.1c4.3 2.6 4.3 8.9 0 11.4z' }),

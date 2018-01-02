@@ -27,9 +27,9 @@ var Snrg = function Snrg(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M112.5 0l-90 58.6v41.7l43 27.6 74.3-48.2-26.4-17.1-48.1 31.7-23-14.9 70.2-45.6 91.7 59.8V60z' }),

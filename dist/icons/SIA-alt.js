@@ -27,9 +27,9 @@ var SiaAlt = function SiaAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M147.5 116.5c-8.9-8.9-23.3-8.9-32.2 0-8.9 8.9-8.9 23.3 0 32.2 2.9 2.9 6.3 4.8 9.9 5.8 3.3.9 6.8.9 7.1.9h15.1c1.7 0 3.7-.8 4.9-2s2-3.2 2-4.9V133c0-.3 0-2.2-.9-6.6-.8-3.7-3-7-5.9-9.9z' }),

@@ -3,9 +3,17 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.Zeit = exports.ZeitAlt = exports.Zec = exports.ZecAlt = exports.Ybc = exports.YbcAlt = exports.Xvg = exports.XvgAlt = exports.Xtz = exports.XtzAlt = exports.Xrp = exports.XrpAlt = exports.Xpm = exports.XpmAlt = exports.Xmr = exports.Xem = exports.XemAlt = exports.Xcp = exports.XcpAlt = exports.Xbs = exports.XbsAlt = exports.Xai = exports.XaiAlt = exports.Waves = exports.WavesAlt = exports.Vtc = exports.VtcAlt = exports.Vrc = exports.VrcAlt = exports.Vpn = exports.VpnAlt = exports.Vnl = exports.VnlAlt = exports.Vior = exports.ViorAlt = exports.Usdt = exports.UsdtAlt = exports.Unity = exports.UnityAlt = exports.Ubq = exports.UbqAlt = exports.Tx = exports.TxAlt = exports.Trig = exports.TrigAlt = exports.Sys = exports.SysAlt = exports.Sync = exports.SyncAlt = exports.Swift = exports.SwiftAlt = exports.Strat = exports.StratAlt = exports.Str = exports.StrAlt = exports.Steem = exports.SteemAlt = exports.Start = exports.StartAlt = exports.Snrg = exports.SnrgAlt = exports.Sls = exports.SlsAlt = exports.Slg = exports.SlgAlt = exports.Sjcx = exports.SjcxAlt = exports.Sia = undefined;
-exports.SiaAlt = exports.Sdc = exports.SdcAlt = exports.Scot = exports.ScotAlt = exports.Sar = exports.SarAlt = exports.Rise = exports.RiseAlt = exports.Rep = exports.RepAlt = exports.Rdd = exports.RddAlt = exports.Rby = exports.RbyAlt = exports.Rbt = exports.RbtAlt = exports.Rbies = exports.RbiesAlt = exports.Rads = exports.RadsAlt = exports.Qrk = exports.QrkAlt = exports.Ppc = exports.PpcAlt = exports.Pot = exports.PotAlt = exports.Pivx = exports.PivxAlt = exports.Pink = exports.PinkAlt = exports.Piggy = exports.PiggyAlt = exports.Part = exports.PartAlt = exports.Opal = exports.OpalAlt = exports.Omni = exports.OmniAlt = exports.Omg = exports.OmgAlt = exports.Ok = exports.OkAlt = exports.Nxt = exports.NxtAlt = exports.Nvc = exports.NvcAlt = exports.Note = exports.NoteAlt = exports.Nmc = exports.NmcAlt = exports.Nlg = exports.NlgAlt = exports.Neu = exports.NeuAlt = exports.Neos = exports.NeosAlt = exports.Neo = exports.NeoAlt = exports.Nbt = exports.Mue = exports.MueAlt = exports.Mtr = exports.MtrAlt = exports.Msc = exports.MscAlt = exports.Mrc = exports.Mona = exports.MonaAlt = exports.Mint = exports.MintAlt = exports.Mco = exports.McoAlt = exports.Maid = exports.MaidAlt = exports.Ltc = exports.LtcAlt = exports.Lisk = exports.LiskAlt = exports.Ldoge = exports.LdogeAlt = exports.Lbc = exports.LbcAlt = exports.Kore = exports.KoreAlt = exports.Kobo = exports.Kmd = exports.KmdAlt = exports.Jbs = exports.JbsAlt = exports.Iota = exports.IotaAlt = exports.Ioc = exports.IocAlt = exports.Incnt = exports.IncntAlt = exports.Ifc = exports.IfcAlt = exports.Icn = exports.IcnAlt = undefined;
-exports.Heat = exports.HeatAlt = exports.Grs = exports.Grc = exports.GrcAlt = exports.Golos = exports.GolosAlt = exports.Gnt = exports.GntAlt = exports.Gno = exports.GnoAlt = exports.Gld = exports.GldAlt = exports.Gemz = exports.GemzAlt = exports.Gdc = exports.GdcAlt = exports.Game = exports.GameAlt = exports.Ftc = exports.FtcAlt = exports.Frk = exports.FrkAlt = exports.Flo = exports.FloAlt = exports.Fct = exports.FctAlt = exports.Fc2 = exports.Fc2Alt = exports.Eth = exports.EthAlt = exports.Etc = exports.EtcAlt = exports.Erc = exports.ErcAlt = exports.Eos = exports.EosAlt = exports.Emc = exports.EmcAlt = exports.Doge = exports.DogeAlt = exports.Dmd = exports.DmdAlt = exports.Dgx = exports.Dgd = exports.Dgb = exports.DgbAlt = exports.Dct = exports.DctAlt = exports.Dcr = exports.DcrAlt = exports.Dash = exports.DashAlt = exports.Dao = exports.DaoAlt = exports.Cloak = exports.CloakAlt = exports.Clam = exports.ClamAlt = exports.Bts = exports.BtsAlt = exports.Btcd = exports.BtcdAlt = exports.Btc = exports.BtcAlt = exports.Bta = exports.Bsd = exports.BsdAlt = exports.Brx = exports.BrxAlt = exports.Brk = exports.BrkAlt = exports.Bft = exports.BftAlt = exports.Bcn = exports.BcnAlt = exports.Bch = exports.BchAlt = exports.Bc = exports.BcAlt = exports.Bay = exports.BayAlt = exports.Bat = exports.BatAlt = exports.Banx = exports.BanxAlt = exports.Aur = exports.AurAlt = exports.Ardr = exports.ArdrAlt = exports.Arch = exports.ArchAlt = exports.Anc = exports.AncAlt = exports.Amp = exports.AmpAlt = exports.Aeon = exports.AeonAlt = exports.Adc = exports.AdcAlt = undefined;
+exports.Zeit = exports.ZeitAlt = exports.Zec = exports.ZecAlt = exports.Ybc = exports.YbcAlt = exports.Xzc = exports.XzcAlt = exports.Xvg = exports.XvgAlt = exports.Xtz = exports.XtzAlt = exports.Xrp = exports.XrpAlt = exports.Xpm = exports.XpmAlt = exports.Xmr = exports.Xem = exports.XemAlt = exports.Xcp = exports.XcpAlt = exports.Xbs = exports.XbsAlt = exports.Xai = exports.XaiAlt = exports.Waves = exports.WavesAlt = exports.Vtc = exports.VtcAlt = exports.Vrc = exports.VrcAlt = exports.Vpn = exports.VpnAlt = exports.Vnl = exports.VnlAlt = exports.Vior = exports.ViorAlt = exports.Usdt = exports.UsdtAlt = exports.Unity = exports.UnityAlt = exports.Ubq = exports.UbqAlt = exports.Tx = exports.TxAlt = exports.Trig = exports.TrigAlt = exports.Sys = exports.SysAlt = exports.Sync = exports.SyncAlt = exports.Swift = exports.SwiftAlt = exports.Strat = exports.StratAlt = exports.Str = exports.StrAlt = exports.Steem = exports.SteemAlt = exports.Start = exports.StartAlt = exports.Snrg = exports.SnrgAlt = exports.Sls = exports.SlsAlt = exports.Slg = exports.SlgAlt = exports.Sjcx = exports.SjcxAlt = exports.Sia = exports.SiaAlt = exports.Sdc = exports.SdcAlt = exports.Scot = exports.ScotAlt = exports.Sar = exports.SarAlt = exports.Salt = exports.SaltAlt = exports.Rise = exports.RiseAlt = undefined;
+exports.Rep = exports.RepAlt = exports.Rdd = exports.RddAlt = exports.Rby = exports.RbyAlt = exports.Rbt = exports.RbtAlt = exports.Rbies = exports.RbiesAlt = exports.Rads = exports.RadsAlt = exports.Qtum = exports.QtumAlt = exports.Qrk = exports.QrkAlt = exports.Ppc = exports.PpcAlt = exports.Pot = exports.PotAlt = exports.Pivx = exports.PivxAlt = exports.Pink = exports.PinkAlt = exports.Piggy = exports.PiggyAlt = exports.Part = exports.PartAlt = exports.Opal = exports.OpalAlt = exports.Omni = exports.OmniAlt = exports.Omg = exports.OmgAlt = exports.Ok = exports.OkAlt = exports.Nxt = exports.NxtAlt = exports.Nvc = exports.NvcAlt = exports.Note = exports.NoteAlt = exports.Nmc = exports.NmcAlt = exports.Nlg = exports.NlgAlt = exports.Neu = exports.NeuAlt = exports.Neos = exports.NeosAlt = exports.Neo = exports.NeoAlt = exports.Nbt = exports.Mue = exports.MueAlt = exports.Mtr = exports.MtrAlt = exports.Msc = exports.MscAlt = exports.Mrc = exports.Mona = exports.MonaAlt = exports.Mint = exports.MintAlt = exports.Mco = exports.McoAlt = exports.Maid = exports.MaidAlt = exports.Ltc = exports.LtcAlt = exports.Lsk = exports.LskAlt = exports.Ldoge = exports.LdogeAlt = exports.Lbc = exports.LbcAlt = exports.Kore = exports.KoreAlt = exports.Kobo = exports.Kmd = exports.KmdAlt = exports.Jbs = exports.JbsAlt = exports.Iota = exports.IotaAlt = exports.Ioc = exports.IocAlt = exports.Incnt = exports.IncntAlt = exports.Ifc = exports.IfcAlt = exports.Icn = exports.IcnAlt = exports.Heat = exports.HeatAlt = exports.Grs = exports.Grc = exports.GrcAlt = exports.Golos = exports.GolosAlt = undefined;
+exports.Gnt = exports.GntAlt = exports.Gno = exports.GnoAlt = exports.Gld = exports.GldAlt = exports.Gemz = exports.GemzAlt = exports.Gdc = exports.GdcAlt = exports.GbyteAlt = exports.Game = exports.GameAlt = exports.Ftc = exports.FtcAlt = exports.Frk = exports.FrkAlt = exports.Flo = exports.FloAlt = exports.Fct = exports.FctAlt = exports.Fc2 = exports.Fc2Alt = exports.Eth = exports.EthAlt = exports.Etc = exports.EtcAlt = exports.Erc = exports.ErcAlt = exports.Eos = exports.EosAlt = exports.Emc = exports.EmcAlt = exports.Doge = exports.DogeAlt = exports.Dmd = exports.DmdAlt = exports.Dgx = exports.Dgd = exports.Dgb = exports.DgbAlt = exports.Dct = exports.DctAlt = exports.Dcr = exports.DcrAlt = exports.Dash = exports.DashAlt = exports.Dao = exports.DaoAlt = exports.Cloak = exports.CloakAlt = exports.Clam = exports.ClamAlt = exports.Bts = exports.BtsAlt = exports.Btm = exports.BtmAlt = exports.Btcd = exports.BtcdAlt = exports.Btc = exports.BtcAlt = exports.Bta = exports.Bsd = exports.BsdAlt = exports.Brx = exports.BrxAlt = exports.Brk = exports.BrkAlt = exports.Bft = exports.BftAlt = exports.Bcn = exports.BcnAlt = exports.Bch = exports.BchAlt = exports.Bc = exports.BcAlt = exports.Bay = exports.BayAlt = exports.Bat = exports.BatAlt = exports.Banx = exports.BanxAlt = exports.Aur = exports.AurAlt = exports.Ark = exports.ArkAlt = exports.Ardr = exports.ArdrAlt = exports.Arch = exports.ArchAlt = exports.Anc = exports.AncAlt = exports.Amp = exports.AmpAlt = exports.Aeon = exports.AeonAlt = exports.Adc = exports.AdcAlt = exports.Ada = exports.AdaAlt = undefined;
+
+var _ADAAlt = require('./icons/ADA-alt');
+
+var _ADAAlt2 = _interopRequireDefault(_ADAAlt);
+
+var _ADA = require('./icons/ADA');
+
+var _ADA2 = _interopRequireDefault(_ADA);
 
 var _ADCAlt = require('./icons/ADC-alt');
 
@@ -54,6 +62,14 @@ var _ARDRAlt2 = _interopRequireDefault(_ARDRAlt);
 var _ARDR = require('./icons/ARDR');
 
 var _ARDR2 = _interopRequireDefault(_ARDR);
+
+var _ARKAlt = require('./icons/ARK-alt');
+
+var _ARKAlt2 = _interopRequireDefault(_ARKAlt);
+
+var _ARK = require('./icons/ARK');
+
+var _ARK2 = _interopRequireDefault(_ARK);
 
 var _AURAlt = require('./icons/AUR-alt');
 
@@ -162,6 +178,14 @@ var _BTCDAlt2 = _interopRequireDefault(_BTCDAlt);
 var _BTCD = require('./icons/BTCD');
 
 var _BTCD2 = _interopRequireDefault(_BTCD);
+
+var _BTMAlt = require('./icons/BTM-alt');
+
+var _BTMAlt2 = _interopRequireDefault(_BTMAlt);
+
+var _BTM = require('./icons/BTM');
+
+var _BTM2 = _interopRequireDefault(_BTM);
 
 var _BTSAlt = require('./icons/BTS-alt');
 
@@ -339,6 +363,10 @@ var _GAME = require('./icons/GAME');
 
 var _GAME2 = _interopRequireDefault(_GAME);
 
+var _GBYTEAlt = require('./icons/GBYTE-alt');
+
+var _GBYTEAlt2 = _interopRequireDefault(_GBYTEAlt);
+
 var _GDCAlt = require('./icons/GDC-alt');
 
 var _GDCAlt2 = _interopRequireDefault(_GDCAlt);
@@ -491,13 +519,13 @@ var _LDOGE = require('./icons/LDOGE');
 
 var _LDOGE2 = _interopRequireDefault(_LDOGE);
 
-var _LISKAlt = require('./icons/LISK-alt');
+var _LSKAlt = require('./icons/LSK-alt');
 
-var _LISKAlt2 = _interopRequireDefault(_LISKAlt);
+var _LSKAlt2 = _interopRequireDefault(_LSKAlt);
 
-var _LISK = require('./icons/LISK');
+var _LSK = require('./icons/LSK');
 
-var _LISK2 = _interopRequireDefault(_LISK);
+var _LSK2 = _interopRequireDefault(_LSK);
 
 var _LTCAlt = require('./icons/LTC-alt');
 
@@ -723,6 +751,14 @@ var _QRK = require('./icons/QRK');
 
 var _QRK2 = _interopRequireDefault(_QRK);
 
+var _QTUMAlt = require('./icons/QTUM-alt');
+
+var _QTUMAlt2 = _interopRequireDefault(_QTUMAlt);
+
+var _QTUM = require('./icons/QTUM');
+
+var _QTUM2 = _interopRequireDefault(_QTUM);
+
 var _RADSAlt = require('./icons/RADS-alt');
 
 var _RADSAlt2 = _interopRequireDefault(_RADSAlt);
@@ -778,6 +814,14 @@ var _RISEAlt2 = _interopRequireDefault(_RISEAlt);
 var _RISE = require('./icons/RISE');
 
 var _RISE2 = _interopRequireDefault(_RISE);
+
+var _SALTAlt = require('./icons/SALT-alt');
+
+var _SALTAlt2 = _interopRequireDefault(_SALTAlt);
+
+var _SALT = require('./icons/SALT');
+
+var _SALT2 = _interopRequireDefault(_SALT);
 
 var _SARAlt = require('./icons/SAR-alt');
 
@@ -1055,6 +1099,14 @@ var _XVG = require('./icons/XVG');
 
 var _XVG2 = _interopRequireDefault(_XVG);
 
+var _XZCAlt = require('./icons/XZC-alt');
+
+var _XZCAlt2 = _interopRequireDefault(_XZCAlt);
+
+var _XZC = require('./icons/XZC');
+
+var _XZC2 = _interopRequireDefault(_XZC);
+
 var _YBCAlt = require('./icons/YBC-alt');
 
 var _YBCAlt2 = _interopRequireDefault(_YBCAlt);
@@ -1081,6 +1133,8 @@ var _ZEIT2 = _interopRequireDefault(_ZEIT);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+exports.AdaAlt = _ADAAlt2.default;
+exports.Ada = _ADA2.default;
 exports.AdcAlt = _ADCAlt2.default;
 exports.Adc = _ADC2.default;
 exports.AeonAlt = _AEONAlt2.default;
@@ -1093,6 +1147,8 @@ exports.ArchAlt = _ARCHAlt2.default;
 exports.Arch = _ARCH2.default;
 exports.ArdrAlt = _ARDRAlt2.default;
 exports.Ardr = _ARDR2.default;
+exports.ArkAlt = _ARKAlt2.default;
+exports.Ark = _ARK2.default;
 exports.AurAlt = _AURAlt2.default;
 exports.Aur = _AUR2.default;
 exports.BanxAlt = _BANXAlt2.default;
@@ -1120,6 +1176,8 @@ exports.BtcAlt = _BTCAlt2.default;
 exports.Btc = _BTC2.default;
 exports.BtcdAlt = _BTCDAlt2.default;
 exports.Btcd = _BTCD2.default;
+exports.BtmAlt = _BTMAlt2.default;
+exports.Btm = _BTM2.default;
 exports.BtsAlt = _BTSAlt2.default;
 exports.Bts = _BTS2.default;
 exports.ClamAlt = _CLAMAlt2.default;
@@ -1164,6 +1222,7 @@ exports.FtcAlt = _FTCAlt2.default;
 exports.Ftc = _FTC2.default;
 exports.GameAlt = _GAMEAlt2.default;
 exports.Game = _GAME2.default;
+exports.GbyteAlt = _GBYTEAlt2.default;
 exports.GdcAlt = _GDCAlt2.default;
 exports.Gdc = _GDC2.default;
 exports.GemzAlt = _GEMZAlt2.default;
@@ -1202,8 +1261,8 @@ exports.LbcAlt = _LBCAlt2.default;
 exports.Lbc = _LBC2.default;
 exports.LdogeAlt = _LDOGEAlt2.default;
 exports.Ldoge = _LDOGE2.default;
-exports.LiskAlt = _LISKAlt2.default;
-exports.Lisk = _LISK2.default;
+exports.LskAlt = _LSKAlt2.default;
+exports.Lsk = _LSK2.default;
 exports.LtcAlt = _LTCAlt2.default;
 exports.Ltc = _LTC2.default;
 exports.MaidAlt = _MAIDAlt2.default;
@@ -1260,6 +1319,8 @@ exports.PpcAlt = _PPCAlt2.default;
 exports.Ppc = _PPC2.default;
 exports.QrkAlt = _QRKAlt2.default;
 exports.Qrk = _QRK2.default;
+exports.QtumAlt = _QTUMAlt2.default;
+exports.Qtum = _QTUM2.default;
 exports.RadsAlt = _RADSAlt2.default;
 exports.Rads = _RADS2.default;
 exports.RbiesAlt = _RBIESAlt2.default;
@@ -1274,6 +1335,8 @@ exports.RepAlt = _REPAlt2.default;
 exports.Rep = _REP2.default;
 exports.RiseAlt = _RISEAlt2.default;
 exports.Rise = _RISE2.default;
+exports.SaltAlt = _SALTAlt2.default;
+exports.Salt = _SALT2.default;
 exports.SarAlt = _SARAlt2.default;
 exports.Sar = _SAR2.default;
 exports.ScotAlt = _SCOTAlt2.default;
@@ -1343,6 +1406,8 @@ exports.XtzAlt = _XTZAlt2.default;
 exports.Xtz = _XTZ2.default;
 exports.XvgAlt = _XVGAlt2.default;
 exports.Xvg = _XVG2.default;
+exports.XzcAlt = _XZCAlt2.default;
+exports.Xzc = _XZC2.default;
 exports.YbcAlt = _YBCAlt2.default;
 exports.Ybc = _YBC2.default;
 exports.ZecAlt = _ZECAlt2.default;

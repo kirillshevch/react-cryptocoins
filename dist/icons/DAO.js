@@ -27,9 +27,9 @@ var Dao = function Dao(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M119 46.5H68.3v59.3h45.1v14.9H68.3v58.1h49.8c26.7 0 51.5-15.2 51.5-65.6.1-50.4-30.4-66.7-50.6-66.7z' }),
