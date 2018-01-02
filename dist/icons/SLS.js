@@ -27,9 +27,9 @@ var Sls = function Sls(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M120.4 226.6c8.2-3.4 15.9-8 21.3-14.1 17-19.5 23.8-54.9-4-75-14.4-10.4-33.7-15.1-54.2-24.7s-32.2-25-35.6-45.5C45.1 50.4 46.2 27.8 69.1 9 28.5 26.2 0 66.5 0 113.4 0 176 50.8 226.8 113.4 226.8c2.4 0 4.7-.1 7-.2z' }),

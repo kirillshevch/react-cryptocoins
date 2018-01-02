@@ -27,9 +27,9 @@ var RadsAlt = function RadsAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('circle', { cx: '146.51', cy: '145.51', r: '8.137' }),

@@ -27,9 +27,9 @@ var GnoAlt = function GnoAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M138.092 88.931C131.782 82.621 123.21 79 114.281 79h-.06c-8.87 0-17.144 3.323-23.454 9.455l23.811 23.87 23.514-23.394z' }),

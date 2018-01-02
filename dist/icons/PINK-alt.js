@@ -27,9 +27,9 @@ var PinkAlt = function PinkAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M119.4 78.6c-17.1 0-31.1 13.9-31.1 31.1 0 17.1 13.9 31.1 31.1 31.1 17.1 0 31.1-13.9 31.1-31.1 0-17.2-13.9-31.1-31.1-31.1z' }),

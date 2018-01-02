@@ -27,9 +27,9 @@ var Iota = function Iota(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('circle', { cx: '131.285', cy: '135.797', r: '6.026' }),

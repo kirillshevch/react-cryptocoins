@@ -27,9 +27,9 @@ var Rise = function Rise(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('circle', { cx: '73.8', cy: '17.9', r: '17.9' }),

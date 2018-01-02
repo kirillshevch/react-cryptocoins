@@ -27,9 +27,9 @@ var DaoAlt = function DaoAlt(props) {
     'svg',
     _extends({
       xmlns: 'http://www.w3.org/2000/svg',
-      viewBox: '0 0 226.8 226.8',
       width: size,
       height: size,
+      viewBox: '0 0 226.8 226.8',
       fill: color
     }, otherProps),
     _react2.default.createElement('path', { d: 'M79.5 157.1h36.3c19.5 0 37.6-10.1 37.6-43.7 0-33.5-22.2-44.4-37-44.4h-37v40.6h-8.5v7.4h8.5v40.1zM90.9 117h22.5v-7.4H90.9V80h25.3c10.1 0 25.3 8.1 25.3 33.3 0 25.2-12.4 32.8-25.7 32.8H90.9V117z' }),
